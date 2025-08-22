@@ -1,24 +1,29 @@
-# 👋 Welcome to My Portfolio
+# ⚙️ Automation & PLC Systems Portfolio
 
-![My Headshot](/assets/img/headshot_circle.jpg)
-
-Hi, I’m **Chidinma Idonor** — a Software & Automation Engineer with focus on:
-
-- 🧠 Artificial Intelligence  
-- ⚙️ PLC & Industrial Automation  
-- ☁️ Cloud & DevOps  
+Welcome to my **Automation & PLC Systems Portfolio** 🚀  
+Here, I showcase projects where I designed, simulated, and optimized automation systems using **PLCs, HMIs, and SCADA**.
 
 ---
 
-## 🚀 Featured Projects
+## 🔹 Featured Projects
 
-### 🧠 Artificial Intelligence
-- [Fraud Detection with ML](#) – Built a predictive model to identify fraudulent transactions  
-- [AI-based Traffic Management](#) – Simulated AI control for traffic optimization  
+### 🏭 Mini Smart Factory Simulation
+- **Overview:** PLC-controlled smart factory line with conveyor, packaging, and sorting logic.  
+- **Tech Used:** Siemens TIA Portal, Factory I/O, HMI integration  
+- [📂 Project Details](projects/mini-smart-factory/README.md) | ![Factory Demo](assets/img/factory_demo.png)
 
-### ⚙️ Automation & PLC Systems
-- [Mini Smart Factory Simulation](#) – PLC/HMI project for automated production line  
-- [Traffic Light Control with PLC](#) – Smart sequencing logic with safety interlocks  
+---
 
-### ☁️ Cloud & DevOps
-- [ML CI/CD Pipeline](#) – Automated ML training + deployment with GitHub Actions  
+### 🚦 Traffic Light Control with PLC
+- **Overview:** Smart traffic light sequencing with timers, safety interlocks, and pedestrian mode.  
+- **Tech Used:** Siemens S7-1200, Ladder Logic, TIA Portal Simulation  
+- [📂 Project Details](projects/traffic-light-plc/README.md) | ![Traffic PLC](assets/img/traffic_plc.png)
+
+---
+
+### 📊 SCADA Monitoring Dashboard
+- **Overview:** Real-time monitoring & control dashboard for an industrial process.  
+- **Tech Used:** WinCC, PLC integration, Alarming & Trend Logging  
+- [📂 Project Details](projects/scada-monitoring/README.md) | ![SCADA](assets/img/scada_ui.png)
+
+---
