@@ -12,20 +12,20 @@ My focus area include:
 ### Mini Smart Factory Simulation
 - **Overview:** PLC-controlled smart factory line with conveyor, packaging, and sorting logic.  
 - **Tech Used:** Siemens TIA Portal, Factory I/O, HMI integration  
-- [📂 Project Details](projects/mini-smart-factory/README.md) | ![Factory Demo](assets/img/factory_demo.png)
+- [👉 View Project](projects/mini-smart-factory/README.md)
 
 ---
 
 ###  Traffic Light Control with PLC
 - **Overview:** Smart traffic light sequencing with timers, safety interlocks, and pedestrian mode.  
 - **Tech Used:** Siemens S7-1200, Ladder Logic, TIA Portal Simulation  
-- [📂 Project Details](projects/traffic-light-plc/README.md) | ![Traffic PLC](assets/img/traffic_plc.png)
+- [👉 View Project](projects/traffic-light-plc/README.md) 
 
 ---
 
 ###  SCADA Monitoring Dashboard
 - **Overview:** Real-time monitoring & control dashboard for an industrial process.  
 - **Tech Used:** WinCC, PLC integration, Alarming & Trend Logging  
-- [📂 Project Details](projects/scada-monitoring/README.md) | ![SCADA](assets/img/scada_ui.png)
+- [📂 Project Details](projects/scada-monitoring/README.md) 
 
 ---
