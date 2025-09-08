@@ -12,7 +12,7 @@ My focus area include:
 ###1. Mini Smart Factory Simulation
 - **Overview:** PLC-controlled smart factory line with conveyor, packaging, and sorting logic.  
 - **Tech Used:** Siemens TIA Portal, Factory I/O, HMI integration  
-- [👉 View Project](projects/mini-smart-factory/README.md)
+- [👉 View Project]()
 
 ---
 
@@ -28,7 +28,7 @@ My focus area include:
    - Programming Languages: Python (for content management scripts)
 
    - Tools: Proteus for circuit simulation, MATLAB/Simulink for performance modeling
-- [👉 View Project](projects/traffic-light-plc/README.md) 
+- [👉 View Project]() 
 
 ---
 
@@ -52,7 +52,23 @@ My focus area include:
 
 ---
 
-###5  SCADA Monitoring Dashboard
+###5  Embedded Fire Detection and Automated Response System with Vision-Based Monitoring
+- **Overview:** Designed and implemented an Arduino-based fire detection and control system enhanced with webcam vision monitoring. The system integrates flame and temperature sensors for real-time detection, with the webcam providing visual verification and evidence capture. Automated control mechanisms, such as activating alarms and triggering fire suppression modules, were programmed to minimize response latency. The system demonstrates the application of embedded hardware–software integration in safety-critical environments.
+- **Tech Used:**
+   - Embedded Systems: Arduino Microcontroller, Sensor Modules (Flame, Temperature, Smoke)
+
+   - Computer Vision: Webcam integration with OpenCV (Python) for fire detection and verification
+
+   - Control Systems: Relay drivers for activating alarms, fans, and suppression mechanisms
+
+   - Communication: Serial communication between Arduino and PC for image/video processing
+
+   - Software & Tools: C/C++ (Arduino IDE), Python (OpenCV), Proteus for simulation
+- [📂 Project Details]() 
+
+---
+
+###6  SCADA Monitoring Dashboard
 - **Overview:** Real-time monitoring & control dashboard for an industrial process.  
 - **Tech Used:** WinCC, PLC integration, Alarming & Trend Logging  
 - [📂 Project Details](projects/scada-monitoring/README.md) 
