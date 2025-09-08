@@ -9,9 +9,18 @@ My focus area include:
 
 ## 🔹 Featured Projects
 
-###1. Mini Smart Factory Simulation
-- **Overview:** PLC-controlled smart factory line with conveyor, packaging, and sorting logic.  
-- **Tech Used:** Siemens TIA Portal, Factory I/O, HMI integration  
+###1. Vision-Guided Load Carrier Automation System with Real-Time Object Tracking
+- **Overview:** Developed an industrial automation system that utilizes computer vision and embedded control for automated load carrying. The system integrates OpenCV-based object detection and tracking to identify materials on a conveyor or shop floor and directs robotic carriers for precise pick-and-place operations. Embedded controllers were programmed to synchronize motor control with visual feedback, enabling real-time, low-latency decision-making. The solution showcases the integration of machine vision with embedded automation for improving efficiency and reducing manual intervention in industrial workflows..  
+- **Tech Used:**
+    - Embedded Systems: Arduino/STM32 Microcontroller, Motor Drivers, Servo/Stepper Motors
+
+    - Computer Vision: OpenCV (Python/C++) for object detection and tracking
+
+    - Control Systems: PID control for motor synchronization, real-time motion planning
+
+    - Communication: UART, I²C, or SPI for controller–sensor interfacing
+
+    - Software & Tools: C/C++ (firmware), Python (vision and control logic), Proteus for simulation, MATLAB/Simulink for control modeling  
 - [👉 View Project]()
 
 ---
@@ -68,7 +77,14 @@ My focus area include:
 
 ---
 
-###6  SCADA Monitoring Dashboard
+###6. Mini Smart Factory Simulation
+- **Overview:** PLC-controlled smart factory line with conveyor, packaging, and sorting logic.  
+- **Tech Used:** Siemens TIA Portal, Factory I/O, HMI integration  
+- [👉 View Project]()
+
+---
+
+###7  SCADA Monitoring Dashboard
 - **Overview:** Real-time monitoring & control dashboard for an industrial process.  
 - **Tech Used:** WinCC, PLC integration, Alarming & Trend Logging  
 - [📂 Project Details](projects/scada-monitoring/README.md) 
