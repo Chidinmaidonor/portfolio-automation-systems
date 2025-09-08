@@ -16,15 +16,32 @@ My focus area include:
 
 ---
 
-###2. Traffic Light Control with PLC
-- **Overview:** Smart traffic light sequencing with timers, safety interlocks, and pedestrian mode.  
-- **Tech Used:** Siemens S7-1200, Ladder Logic, TIA Portal Simulation  
+###2. Microcontroller-Based Programmable LED Digital Display System with Real-Time Control
+- **Overview:** Developed a programmable LED digital display board capable of rendering dynamic text and graphical patterns in real time. The system was designed with embedded microcontrollers for efficient control of LED matrices, including features such as brightness control, scrolling messages, and wireless update capability. Optimized control algorithms were implemented to reduce power consumption and improve refresh rates, making the system suitable for both industrial and public information display applications.
+- **Tech Used:**
+   - Embedded Systems: Arduino Microcontroller, Real-Time Operating System (RTOS)
+
+   - Control Systems: Timer interrupts, PWM for brightness control, matrix scanning algorithms
+
+   - Communication: I²C, Bluetooth/Wi-Fi module for wireless updates
+
+   - Programming Languages: Python (for content management scripts)
+
+   - Tools: Proteus for circuit simulation, MATLAB/Simulink for performance modeling
 - [👉 View Project](projects/traffic-light-plc/README.md) 
 
 ---
 
-###3. Smart Patrolling Robot System for Intrusion Detection and Access Control
-- **Overview:** Designed and implemented an Embedded Intrusion Detection and Patrolling Robot System for apartment security. The system uses microcontroller-based control to autonomously patrol designated routes, detect intrusions through onboard sensors (PIR/ultrasonic), and trigger alerts via IoT connectivity. Integrated real-time control algorithms ensured accurate navigation and obstacle avoidance, while the system was optimized for low power consumption and reliability in continuous operation.  
+###3. Traffic Light Control with PLC
+- **Overview:** Smart traffic light sequencing with timers, safety interlocks, and pedestrian mode.  
+- **Tech Used:** Siemens S7-1200, Ladder Logic, TIA Portal Simulation  
+- [👉 View Project](projects/traffic-light-plc/README.md) 
+
+
+---
+
+###4. Smart Patrolling Robot System for Intrusion Detection and Access Control
+- **Overview:** Designed and implemented an Embedded Intrusion Detection and Patrolling Robot System for apartment security. The system uses microcontroller-based  control to autonomously patrol designated routes, detect intrusions through onboard sensors (PIR/ultrasonic), and trigger alerts via IoT connectivity.      Integrated real-time control algorithms ensured accurate navigation and obstacle avoidance, while the system was optimized for low power consumption and reliability in continuous operation.  
 - **Tech Used:**
     - Control Systems: PID control for navigation, sensor fusion for obstacle detection
 
@@ -35,7 +52,7 @@ My focus area include:
 
 ---
 
-###4  SCADA Monitoring Dashboard
+###5  SCADA Monitoring Dashboard
 - **Overview:** Real-time monitoring & control dashboard for an industrial process.  
 - **Tech Used:** WinCC, PLC integration, Alarming & Trend Logging  
 - [📂 Project Details](projects/scada-monitoring/README.md) 
